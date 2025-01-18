@@ -72,6 +72,8 @@ Git安装
 ## **3.1 代码拉取** 
 
 ## **3.2 模型下载**
+[百度盘BGE模型下载](https://pan.baidu.com/s/1IVI1jrjQiGKQZPZVIkL6Iw?pwd=997x)
+
 
 # **4.LangChain 应用**
 ## **4.1 本地文件资料搜索**
